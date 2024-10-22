@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "word": "t1",
+    "japanese": "2",
+    "wordClass": "3",
+    "sample": "4",
+    "memo": "5"
+  },
+  {
+    "key": 2,
+    "word": "2",
+    "japanese": "t2",
+    "wordClass": "t2",
+    "sample": "t2",
+    "memo": "t2"
+  }
+]
